@@ -1,0 +1,52 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+#div-img {
+  background-color: white;
+  padding: 0 10px;
+}
+
+#div-img #image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#div-img #div-caption {
+  font-family: "Times New Roman";
+  font-style: italic;
+  padding: 25px 0 25px 0;
+}
+
+#tribute-info {
+  text-align: left;
+  font-size: 18px;
+  max-width: 50%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+#tribute-info ul li {
+  padding: 15px 0 15px 0;
+  margin: 5px 0 0 5px;
+  line-height: 1.5;
+}
+
+h3 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+#div-quote {
+  text-align: left;
+  font-style: italic;
+  line-height: 1.5;
+  max-width: 50%;
+  height: auto;
+  margin: 30px auto 50px auto;
+}
