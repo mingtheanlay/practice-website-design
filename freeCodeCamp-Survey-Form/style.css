@@ -1,0 +1,38 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-image: url(https://raw.githubusercontent.com/lasjorg/fcc-form-example-image/master/67103817-7c51e200-f18b-11e9-975f-f74561336a9a-lj.jpg);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+#title {
+  max-width: 50%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+}
+
+#survey-form {
+  max-width: 50%;
+  height: auto;
+  margin: 0 auto;
+  background-color: rgba(27, 27, 50, 0.8);
+  color: white;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+label {
+  display: fixed;
+  width: 100%;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  color: #495057;
+  border-radius: 10px;
+}
